@@ -15,3 +15,6 @@
     - в IntelliJ: Git - manage remotes - добавила URL репозитория
     - создала .gitignore
     - commit and push
+* Cделала pull request
+    
+   
