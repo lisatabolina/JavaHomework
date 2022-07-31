@@ -1,3 +1,5 @@
+package lesson03;
+
 public class Part1Class {
     public static void main(String[] args) {
 
