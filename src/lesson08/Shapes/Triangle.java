@@ -45,7 +45,7 @@ public class Triangle extends Shape{
     /* Метод для подсчета площади треугольника по формуле Герона */
     @Override
     public double getArea() {
-        double p = 0.5 * (sideA + sideB + sideC);
+        double p = 0.5 * getPerimeter();
         return Math.sqrt(p * (p - sideA) * (p - sideB) * (p - sideC));
     }
 
